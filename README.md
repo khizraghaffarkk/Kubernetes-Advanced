@@ -1,6 +1,6 @@
 # Eclipse Mosquitto MQTT Broker and Node-RED Deployment on Kubernetes
 
-This project demonstrates the deployment of an Eclipse Mosquitto MQTT broker along with Node-RED on a Kubernetes cluster using YAML configuration files. It facilitates secure communication and provides a platform for data visualization and processing.
+This project showcases the deployment of a Node-RED application integrated with a Mosquitto MQTT broker on the Rahti Cloud platform. It demonstrates the use of cloud technologies to enable real-time data processing and visualization, leveraging the flexibility of Node-RED's flow-based programming and the lightweight messaging capabilities of Mosquitto.
 
 ## Table of Contents
 
