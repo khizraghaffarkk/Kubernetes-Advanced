@@ -16,9 +16,15 @@ This project demonstrates the deployment of an Eclipse Mosquitto MQTT broker alo
 This project includes the necessary deployments and services to run both the Mosquitto broker and Node-RED. It also sets up a persistent volume for Node-RED to ensure data persistence.
 
 ## Project Structure
-
-. ├── ca.crt ├── flow.json ├── node-red-deployment.yaml ├── nodered-pvc.yaml ├── server.crt ├── server.key └── screenshots
-
+```plaintext
+├── ca.crt
+├── flow.json
+├── node-red-deployment.yaml
+├── nodered-pvc.yaml
+├── server.crt
+├── server.key
+└── screenshots
+```
 
 ## Prerequisites
 
