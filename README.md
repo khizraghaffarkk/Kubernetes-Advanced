@@ -10,7 +10,7 @@ This project demonstrates the deployment of an Eclipse Mosquitto MQTT broker alo
 - [How to Run](#how-to-run)
 - [Configuration Files](#configuration-files)
 - [Screenshots](#screenshots)
-=
+  
 ## Project Overview
 
 This project includes the necessary deployments and services to run both the Mosquitto broker and Node-RED. It also sets up a persistent volume for Node-RED to ensure data persistence.
